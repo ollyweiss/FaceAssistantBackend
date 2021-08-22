@@ -9,5 +9,4 @@ public class FaceAssistantApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(FaceAssistantApplication.class, args);
 	}
-
 }
